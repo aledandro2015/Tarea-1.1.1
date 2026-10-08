@@ -45,4 +45,4 @@ print("Hola soy Alejandro")
 
 <!--Esto es un comentario-->
 
-[Ir a la segunda parte](tarea1.1.1.-markdown/segundo.md)
+[Ir a la segunda parte](tarea1.1.1-markdown/segundo.md)
