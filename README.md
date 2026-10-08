@@ -33,7 +33,7 @@ print("Hola soy Alejandro")
 
 [2]: https://www.twitch.tv/
 
-![C](images/images.jpeg)
+![C](tarea1.1.1-markdown/images/images.jpeg)
 [![Lenguaje C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNomdknv6OsCgNir_wlAs5KDjAHR5tuq_-SIbrx-5pzQ&s=10)](https://es.wikipedia.org/wiki/C%2B%2B)
 
 | Lenguaje | Tipo | Año
